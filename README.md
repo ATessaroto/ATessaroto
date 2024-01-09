@@ -17,4 +17,9 @@
 - PL/SQL
 
 ### General knowledge:
-## JAVA
+- JAVA
+- C#
+- PHP
+- Python
+- Node
+- MySQL
