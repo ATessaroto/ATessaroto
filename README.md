@@ -13,8 +13,8 @@
 
 
 ### Working Experience:
-## HTML, CSS and JS
-## PL/SQL
+- HTML, CSS and JS
+- PL/SQL
 
 ### General knowledge:
 ## JAVA
