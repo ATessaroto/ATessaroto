@@ -1,4 +1,4 @@
-### Hey, I'm Anthoni Tessaroto
+### Hi, I'm Anthoni Tessaroto!
 
 ####    My Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoni-t/)
@@ -13,11 +13,10 @@
 
 
 ### Working Experience:
-- HTML, CSS and JS
-- PL/SQL
+- React JS
+- Java
 
 ### General knowledge:
-- JAVA
 - C#
 - PHP
 - Python
