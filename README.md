@@ -5,20 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anth.tssm/)
 
 
-### Pursuing a degree in Systems Analysis and Development
+### Degree in Systems Analysis and Development
   
 
 ## Keeping the Grind
 ![Anthoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atessaroto&show_icons=true&theme=github_dark)
-
-
-### Working Experience:
-- React JS
-- Java
-
-### General knowledge:
-- C#
-- PHP
-- Python
-- Node
-- MySQL
