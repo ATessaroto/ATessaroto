@@ -6,7 +6,3 @@
 
 
 ### Degree in Systems Analysis and Development
-  
-
-## Keeping the Grind
-![Anthoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atessaroto&show_icons=true&theme=github_dark)
