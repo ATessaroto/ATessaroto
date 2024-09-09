@@ -17,9 +17,9 @@
 </div>
 
 #### Overview
-![Atessaroto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atessaroto&theme=midnight-purple&hide_border=false)
+![Atessaroto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Atessaroto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atessaroto&theme=midnight-purple&hide_border=true)
 
-![Atessaroto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ####  My Socials
 <a href="https://www.linkedin.com/in/anthoni-t/" target="_blank">
