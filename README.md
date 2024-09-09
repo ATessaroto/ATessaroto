@@ -8,8 +8,14 @@
 #### Knowledges
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?Atessaroto=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?Atessaroto=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### Overview
+![Atessaroto's Stats](https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+#### My Streak
+![Atessaroto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atessaroto&theme=dark&hide_border=true)
+
+#### My Most Used Languages
+![Atessaroto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ####    My Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoni-t/)
