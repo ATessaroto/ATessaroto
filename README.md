@@ -17,7 +17,8 @@
 </div>
 
 #### Overview
-<img src="https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200px" width="500px"/>
+![Atessaroto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atessaroto&theme=midnight-purple&hide_border=false)
+![Atessaroto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ####  My Socials
 <a href="https://www.linkedin.com/in/anthoni-t/" target="_blank">
