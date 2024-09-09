@@ -1,18 +1,12 @@
-<head>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-</head>
-
 ### Hi, I'm Anthoni and i'm a full stack developer!
 
 ### 📖 Degree in Systems Analysis and Development
 
 ### My Stacks
 <div style="display: flex; justify-content: space-around;">
-  <i class="devicon-react-original" width="80" height="80"></i>
-  <i class="devicon-java-plain" width="80" height="80" ></i>
-  <i class="devicon-postgresql-plain" width="80" height="80"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="80" height="80"/>
 </div>
 
 #### Knowledges
