@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-#### Overview
+### Overview
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atessaroto&theme=midnight-purple&hide_border=true" height="200"/>
 
