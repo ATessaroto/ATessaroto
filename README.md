@@ -10,8 +10,8 @@
 
 <div>
 <a href="https://github.com/Atessaroto-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Atessaroto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?Atessaroto=karanalpe&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?Atessaroto=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ####    My Socials
