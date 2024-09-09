@@ -17,10 +17,7 @@
 </div>
 
 #### Overview
-<div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200px" width="500px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px" width="500px"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200px" width="500px"/>
 
 ####  My Socials
 <a href="https://www.linkedin.com/in/anthoni-t/" target="_blank">
