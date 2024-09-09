@@ -9,9 +9,9 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 #### Overview
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200px" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atessaroto&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px" width="49%"/>
 </div>
 
 ####    My Socials
