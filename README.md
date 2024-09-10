@@ -1,4 +1,4 @@
-### Hi, I'm Anthoni and i'm a full stack developer!
+### Hi, my name is Anthoni and i'm a full stack developer!
 
 ### Degree in Systems Analysis and Development
 
