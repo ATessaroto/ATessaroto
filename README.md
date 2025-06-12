@@ -3,10 +3,10 @@
 ### Currently working at Goalfy as a Full Stack Developer 💻
 
 ### My Stacks
-- React (TypeScript) ⚛️ 
-- Quarkus (Java) ☕  
-- Golang 🐹
-- Node.js 🟢
+- React ⚛️ 
+- Java ☕  
+- GO 🐹
+- Node 🟢
 
 
 ### Find me around the web
