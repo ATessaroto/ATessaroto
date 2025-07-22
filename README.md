@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ### Working as a Full Stack Developer 💻
 
 ### My Stacks
