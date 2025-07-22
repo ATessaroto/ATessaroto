@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-### Currently working at Goalfy as a Full Stack Developer 💻
+### Working as a Full Stack Developer 💻
 
 ### My Stacks
 - React ⚛️ 
@@ -8,7 +8,7 @@
 - GO 🐹
 - Node 🟢
 
-Currently cooking a new project 🥘👀
+Cooking a new project 🥘👀
 
 ### Find me around the web
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/anthoni-t/)
