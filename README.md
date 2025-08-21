@@ -1,14 +1,6 @@
 ![Banner](banner.png)
 
-### Working as a Full Stack Developer 💻
-
-### My Stacks
-- React ⚛️ 
-- Java ☕  
-- GO 🐹
-- Node 🟢
-
-Cooking a new project 🥘👀
+### Full Stack Developer 💻
 
 ### Find me around the web
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/anthoni-t/)
