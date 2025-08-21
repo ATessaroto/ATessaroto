@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Anthoni.png)
 
 ### Full Stack Developer 💻
 
