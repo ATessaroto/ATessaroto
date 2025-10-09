@@ -1,8 +1,6 @@
-![Banner](Anthoni.png)
-
 ### Full Stack Developer 💻
 
-#### Working as a full stack developer at Goalfy
+#### Currently working at Goalfy
 #### Cofounder of Abblo
 
 ### Find me around the web
