@@ -1,6 +1,6 @@
 ### Full Stack Developer 💻
 
-#### Currently working at Goalfy
+#### Currently working at Atlas
 #### Cofounder of Abblo
 
 ### Find me around the web
